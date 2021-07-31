@@ -48,7 +48,7 @@
 
 ## 동작 원리
 
-![stun](/res/webSocketprocess.png)
+![stun](/res/webSocketProcess.png)
 
 - 기존의 요청 - 응답 관계에서 벗어난 양방향 송수신
 
