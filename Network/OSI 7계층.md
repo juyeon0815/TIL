@@ -72,7 +72,7 @@
             - 패킷 손실, 중복, 순서바뀜 등이 없도록 보장
             - TCP 하위계층인 IP계층의 신뢰성 없는 서비스에 대해 다방면으로 신뢰성을 제공
         - 연결지향적
-            - 연결 설정(3-way handshake) 및 해제 필요
+            - 연결 설정(3-way handshake) 및 해제(4-way handshake) 필요
             
             
     
@@ -103,3 +103,12 @@
 
 - 사용자가 OSI 환경에 접근할 수 있도록 서비스 제공
 - 응용 프로세스 간의 정보 교환, 전자 사서함, 파일 전송, 가상 터미널 등의 서비스 제공
+
+
+
+참고
+
+https://shlee0882.tistory.com/110
+
+https://velog.io/@cgotjh/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-OSI-7-%EA%B3%84%EC%B8%B5-OSI-7-LAYER-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90-%EA%B0%81-%EA%B3%84%EC%B8%B5-%EC%84%A4%EB%AA%85
+
